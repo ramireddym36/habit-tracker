@@ -1,0 +1,97 @@
+{
+  "habits": [
+    {
+      "id": "234409e0-7c1c-49e0-b77f-6deae302c8ec",
+      "name": "Focus (Continuous)",
+      "freqType": "daily",
+      "target": null,
+      "createdAt": "2026-07-11",
+      "completions": [
+        "2026-07-11",
+        "2026-07-10"
+      ],
+      "notes": {
+        "2026-07-11": "1) Able to Focus and I sense that the focus is being better",
+        "2026-07-10": "Focused while feeding and taking care of baby"
+      },
+      "planNote": "",
+      "status": "ongoing"
+    },
+    {
+      "id": "d6b2f3f6-1f1a-431a-b934-6611ab956f24",
+      "name": "Hard Things/Food Craving",
+      "freqType": "daily",
+      "target": null,
+      "createdAt": "2026-07-11",
+      "completions": [
+        "2026-07-11"
+      ],
+      "notes": {
+        "2026-07-11": "1) Built Habit tracking app and iteratively changed several features\n2) Focus\n3) Guilt Free Rest and Refresh"
+      },
+      "planNote": "",
+      "status": "ongoing"
+    },
+    {
+      "id": "d352cccb-02ad-4139-9959-fc1602cace82",
+      "name": "AI Learning",
+      "freqType": "daily",
+      "target": null,
+      "createdAt": "2026-07-11",
+      "completions": [
+        "2026-07-11"
+      ],
+      "notes": {
+        "2026-07-11": "1) Built Habit Tracking App and iteratively changed several Features\n2) Tried to make this app accessible in both laptop and mobile by hosting it on cloud"
+      },
+      "planNote": "",
+      "status": "ongoing"
+    },
+    {
+      "id": "763dd115-8800-4f3e-a0a6-a0f80ead40af",
+      "name": "EB1A work",
+      "freqType": "daily",
+      "target": null,
+      "createdAt": "2026-07-11",
+      "completions": [],
+      "notes": {},
+      "planNote": "",
+      "status": "ongoing"
+    },
+    {
+      "id": "68e579d5-8264-40a1-bd2f-b8cc1fa8c79b",
+      "name": "Daily Problem Solving",
+      "freqType": "daily",
+      "target": null,
+      "createdAt": "2026-07-11",
+      "completions": [],
+      "notes": {},
+      "planNote": "",
+      "status": "ongoing"
+    },
+    {
+      "id": "c148f3d4-46cc-4f89-8486-26ff5b5ab260",
+      "name": "Cold Shower",
+      "freqType": "daily",
+      "target": null,
+      "createdAt": "2026-07-11",
+      "completions": [],
+      "notes": {},
+      "planNote": "",
+      "status": "ongoing"
+    },
+    {
+      "id": "3f6e6e1b-f793-4738-89cc-71e90fd614cf",
+      "name": "M",
+      "freqType": "daily",
+      "target": null,
+      "createdAt": "2026-07-11",
+      "completions": [
+        "2026-07-11"
+      ],
+      "notes": {},
+      "planNote": "",
+      "status": "ongoing"
+    }
+  ]
+}
